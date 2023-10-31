@@ -1,6 +1,6 @@
 {
-    "name": "flutter_message",
-    "short_name": "flutter_message",
+    "name": "flutter_messaging",
+    "short_name": "flutter_messaging",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

@@ -1,4 +1,4 @@
-# flutter_message
+# flutter_messaging
 
 A new Flutter project.
 
